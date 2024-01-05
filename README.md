@@ -1,6 +1,6 @@
 # namer
 
-A new Flutter project.
+A flutter app which generates random names.
 
 ## Getting Started
 
