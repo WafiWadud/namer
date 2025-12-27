@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/wafi/coding/namer/build/linux/x64/release/cmake_install.cmake",
+		"/home/wafi/coding/namer/build/linux/x64/release/flutter/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
